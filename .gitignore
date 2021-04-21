@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 app/src/main/java/com/laioffer/tinnews/network/Utils.java
+app/src/test/java/com/laioffer/tinnews/ExampleUnitTest.java
